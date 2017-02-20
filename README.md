@@ -15,12 +15,13 @@ I've done this module because I spend a lot of time on terminal and sometimes is
 **TMDB Client** it's easy! You can just type `tmdb <film name>` and select the right one from the list!
 
 
-![search](http://i.imgur.com/L4JoiZ5.gifv)
+![search](https://cloud.githubusercontent.com/assets/16429579/23144438/dc71ca76-f7c7-11e6-8a88-feda20e65949.gif)
+
 
 
 Also you can do an advanced search with the flag `--advanced`
 
-![advanced](http://i.imgur.com/SO9BaR5.gif)
+![advanced](https://cloud.githubusercontent.com/assets/16429579/23144437/dc70fb8c-f7c7-11e6-906b-59dc6d87aaa2.gif)
 
 ## Options 
 You can personalize the result language with the flag `--lang` or use your own **api-key** with `--key`, by the way if you want restore default settings, obviously, you can do it easily with `--restore`!

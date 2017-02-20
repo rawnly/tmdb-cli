@@ -15,7 +15,7 @@ I've done this module because I spend a lot of time on terminal and sometimes is
 **TMDB Client** it's easy! You can just type `tmdb <film name>` and select the right one from the list!
 
 
-![search](http://i.imgur.com/L4JoiZ5.gif)
+![search](http://i.imgur.com/L4JoiZ5.gifv)
 
 
 Also you can do an advanced search with the flag `--advanced`

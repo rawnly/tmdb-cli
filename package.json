@@ -1,0 +1,24 @@
+{
+  "name": "tmdb-cli",
+  "version": "0.1.0",
+  "description": "The Movie Database Client",
+  "main": "index.js",
+  "author": "Federico Vitale (rawnly.com) <fedevitale99@gmail.com>",
+  "repository": "https:github.com/rawnly/tmdb-cli",
+  "license": "MIT",
+  "bin": {
+    "tmdb": "./index.js"
+  },
+  "dependencies": {
+    "chili-js": "^1.3.0",
+    "clear": "^0.0.1",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "conf": "^0.12.0",
+    "first-run": "^1.2.0",
+    "got": "^6.7.1",
+    "inquirer": "^3.0.1",
+    "listr": "^0.9.0",
+    "ora": "^1.1.0"
+  }
+}

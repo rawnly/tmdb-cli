@@ -14,7 +14,6 @@ I've done this module because I spend a lot of time on terminal and sometimes is
 ## How?
 **TMDB Client** it's easy! You can just type `tmdb <film name>` and select the right one from the list!
 
-
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/16429579/23144950/608561a8-f7cb-11e6-944b-e92def20f433.gif" alt="search">
 </p>

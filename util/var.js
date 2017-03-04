@@ -27,30 +27,30 @@ module.exports = encode = encodeURIComponent;
 
 module.exports = spacer = (counter = 3) => {
   for (i=0; i < counter; i++) {
-    log('')
+    log('');
   }
-}
+};
 
 module.exports = rate = (n) => {
   if (n < 1) {
-    return '☆☆☆☆☆☆☆☆☆☆'
+    return '☆☆☆☆☆☆☆☆☆☆';
   } else if ( n >= 1 && n < 2 ) {
-    return '★☆☆☆☆☆☆☆☆☆'
+    return '★☆☆☆☆☆☆☆☆☆';
   } else if ( n >= 2 && n < 3) {
-    return '★★☆☆☆☆☆☆☆☆'
+    return '★★☆☆☆☆☆☆☆☆';
   } else if ( n >= 3 && n < 4) {
-    return '★★★☆☆☆☆☆☆☆'
+    return '★★★☆☆☆☆☆☆☆';
   } else if ( n >= 4 && n < 5) {
-    return '★★★★☆☆☆☆☆☆'
+    return '★★★★☆☆☆☆☆☆';
   } else if ( n >= 5 && n < 6) {
-    return '★★★★★☆☆☆☆☆'
+    return '★★★★★☆☆☆☆☆';
   } else if ( n >= 6 && n < 7) {
-    return '★★★★★★☆☆☆☆'
+    return '★★★★★★☆☆☆☆';
   } else if ( n >= 7 && n < 8  ) {
-    return '★★★★★★★☆☆☆'
+    return '★★★★★★★☆☆☆';
   } else if ( n >= 9 && n < 10 ) {
-    return '★★★★★★★★★☆'
+    return '★★★★★★★★★☆';
   } else if ( n == 10) {
-    return '★★★★★★★★★★'
+    return '★★★★★★★★★★';
   }
-}
+};

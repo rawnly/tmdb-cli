@@ -1,4 +1,7 @@
 # TMDB Client
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+
 <p align="center"?> 
   <img src="https://cloud.githubusercontent.com/assets/16429579/25447616/2910ae94-2ab6-11e7-8f28-ffa3d981bcc8.png" w="150" alt="home" /> 
 </p>

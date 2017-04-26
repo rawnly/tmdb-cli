@@ -1,5 +1,5 @@
 # TMDB Client
-![menu](http://i.imgur.com/RXA7dj8.png)
+<p align="center"?> <img src="https://cloud.githubusercontent.com/assets/16429579/25447616/2910ae94-2ab6-11e7-8f28-ffa3d981bcc8.png" w="150" alt="home" /> </p>
 > [The movie database][tmdb] nodeJS client
 
 ## Installation :tada:   

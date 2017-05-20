@@ -1,6 +1,6 @@
 {
   "name": "tmdb-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The Movie Database Client",
   "main": "index.js",
   "author": "Federico Vitale (https://rawnly.com) <fedevitale99@gmail.com>",
